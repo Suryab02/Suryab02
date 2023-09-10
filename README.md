@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Surya Prabhas Bandaru</h1>
+<h1 align="center">Hi 👋, I'm Surya Prabhas </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryab02&label=Profile%20views&color=0e75b6&style=flat" alt="suryab02" /> </p>
